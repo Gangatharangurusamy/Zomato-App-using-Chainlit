@@ -1,2 +1,5 @@
 env
 .env
+zomato_bot.egg-info
+dist
+build
